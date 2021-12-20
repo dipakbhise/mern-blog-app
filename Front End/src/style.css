@@ -1,0 +1,76 @@
+.login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 220px;
+border: solid gray;
+
+padding-top: 60px;
+padding-bottom: 60px;
+margin-left: 580px;
+margin-right: 580px;
+border-radius: 20px;
+}
+
+.butt{
+    margin-top: 20px;
+}
+
+.pura{
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 450px;
+ 
+}
+
+
+.buttu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.bead{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 300px;
+}
+
+.post{
+    border: solid gray;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    margin-left: 200px;
+    padding-right: 15px;
+    border-radius: 10px;
+   
+    
+
+}
+
+.postt{
+    border: solid gray;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    margin-right: 200px;
+    padding-right: 15px;
+    padding-left: 20px;
+    border-radius: 10px;
+   
+    
+
+}
+
+.make{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
